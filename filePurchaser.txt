@@ -1,0 +1,6 @@
+TT-0001, A company, textile, 012345679, companyA@gmail.com, TPHCM
+FNB-0002, B company, fnb, 1223475901, companyB@gmail.com, HANOI
+AUTOM-0003, C company, automation, 0103344688, companyC@gmail.com, DANANG
+SEAF-0004, D company, seafood, 121367493, companyD@gmail.com, HUE
+MECH-0005, E company, mechanics, 012354679, companyE@gmail.com, NHATRANG
+FNB-00006, CP Foods, fnb, 029383866, cpfood@gmail.com, 21K Nguyen Van Troi

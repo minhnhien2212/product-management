@@ -1,0 +1,7 @@
+KD-0001,Nguyen Van A,kinh doanh,0912146749,nguyenvana.vp.sale@gmail.com
+MKT-0002,Tran Le B,marketing,0912146749,tranleb.vp.mkt@gmail.com
+TV-0004,Pham Tran C,tu van ky thuat,0912146749,phamtranc.vp.techad@gmail.com
+TK-0005,Nguyen Minh D,thiet ke,0912146749,nguyenminhd.vp.design@gmail.com
+HR-0002,Hoang Thi E,quan ly nhan su,0912146749,hoangthie.vp.hr@gmail.com
+KD-0002,Phan Van E,kinh doanh,0912146749,hoangthie.vp.sale@gmail.com
+kjdakgjg,kiwjr,KD,019283844,ajdgjgj@gmail.com
